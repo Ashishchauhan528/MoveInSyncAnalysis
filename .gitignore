@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+out/**/reviews.csv
+out/**/reviews_tagged.csv
+labeling_sheet.csv
+validation_results.csv
